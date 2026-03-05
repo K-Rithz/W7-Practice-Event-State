@@ -7,7 +7,7 @@ function App() {
   }
 
   function onRainClick() {
-    // Complete this code when we click on Sunny Time
+    // Complete this code when we click on Rain Time
   }
 
   function getTitle() {
